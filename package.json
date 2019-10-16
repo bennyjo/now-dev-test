@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "echo PROD BUILD",
+    "dev": "echo DEV BUILD"
+  }
+}
